@@ -1,5 +1,5 @@
 # PlanIt 
-A course dicovery tool by ECE444 Group 10 - 4Sight
+A course discovery tool by ECE444 Group 10 - 4Sight
 
 # Table of Contents
 
@@ -30,7 +30,7 @@ PostgreSQL
 
 1. Download and install [docker-compose](https://docs.docker.com/compose/install/#install-compose)
 
-2. From the project directory, run `docker-compose -f docker-compose.yml up -d`
+2. From the project directory, run `docker-compose -f docker-compose.yml up -d --build`
 
 3. The App should be up at [localhost:3000](http://localhost:3000) and you can see the logs with `docker logs --follow planit_app`
 
