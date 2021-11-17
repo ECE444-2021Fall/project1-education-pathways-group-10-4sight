@@ -3,6 +3,8 @@
 A course discovery tool by ECE444 Group 10 - 4Sight
 
 Website: [ece444-planit.herokuapp.com](https://ece444-planit.herokuapp.com/)
+<br>
+UI Mockups: [Figma Design](https://www.figma.com/file/6ZOzNFenFQdGMGAuXnEQCc/PlanIt-Mockup)
 
 # Table of Contents
 
